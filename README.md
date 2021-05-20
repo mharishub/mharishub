@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://codepen.io/@mharishub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="@mharishub" height="30" width="40" /></a>
 <a href="https://twitter.com/@mharishafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@mharishafeez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lmharishafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mharishafeez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mharishafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mharishafeez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/m haris hafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="m haris hafeez" height="30" width="40" /></a>
 </p>
 
